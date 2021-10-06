@@ -1,3 +1,5 @@
 # History Project
 
-[hi this a test ]
+This is our history project website.
+
+Contributors: Ramzi, Mohammed, Amine, Ghali 
